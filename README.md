@@ -1,1 +1,3 @@
-# Textual_Analysis
+# Topic Classification
+
+Classify topics by using textual analysis
